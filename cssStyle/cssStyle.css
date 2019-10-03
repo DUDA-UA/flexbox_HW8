@@ -21,7 +21,7 @@ body{
 
 .icon1{
     flex-basis: 66%;
-    background-image: url(./img/car.png);
+    background-image: url(/img/car.png);
     height: 540px;
     display: flex;
     max-width: 740px;
